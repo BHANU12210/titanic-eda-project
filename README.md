@@ -24,7 +24,7 @@ Exploratory Data Analysis (EDA) on the Titanic dataset from Kaggle using Python.
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook / VS Code
+-  VS Code
 
 ## 📌 Key Insights
 - 🚺 Women had higher survival rates than men
